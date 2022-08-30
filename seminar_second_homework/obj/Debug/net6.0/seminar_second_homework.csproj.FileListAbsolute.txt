@@ -1,0 +1,15 @@
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\bin\Debug\net6.0\seminar_second_homework.exe
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\bin\Debug\net6.0\seminar_second_homework.deps.json
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\bin\Debug\net6.0\seminar_second_homework.runtimeconfig.json
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\bin\Debug\net6.0\seminar_second_homework.dll
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\bin\Debug\net6.0\seminar_second_homework.pdb
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\seminar_second_homework.csproj.AssemblyReference.cache
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\seminar_second_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\seminar_second_homework.AssemblyInfoInputs.cache
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\seminar_second_homework.AssemblyInfo.cs
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\seminar_second_homework.csproj.CoreCompileInputs.cache
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\seminar_second_homework.dll
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\refint\seminar_second_homework.dll
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\seminar_second_homework.pdb
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\seminar_second_homework.genruntimeconfig.cache
+C:\Users\79038\Desktop\homework C# method\seminar_second_homework\obj\Debug\net6.0\ref\seminar_second_homework.dll
